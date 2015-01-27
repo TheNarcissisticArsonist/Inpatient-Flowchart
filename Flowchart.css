@@ -6,4 +6,10 @@ div {
   width: 140px;
   height: 64px;
   background-color: yellow;
+  text-align: center;
+  vertical-align: middle;
+}
+.optionBox p {
+  margin: 0px;
+  padding: 24px 0px;
 }

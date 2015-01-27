@@ -8,3 +8,9 @@ var stage = 0;
 3.3 -> Transfer hub
 -1  -> Done
 */
+$(document).ready(function() {
+  $("#optionBox1").html("<p>ED</p>");
+  $("#optionBox2").html("<p>Direct Admit</p>");
+  $("#optionBox3").html("<p>Hospital Transfer</p>");
+  $("#optionBox4").html("<p>PACU</p>");
+});
