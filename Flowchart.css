@@ -1,0 +1,9 @@
+div {
+  display: inline-block;
+}
+
+.optionBox {
+  width: 140px;
+  height: 64px;
+  background-color: yellow;
+}
